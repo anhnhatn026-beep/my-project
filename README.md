@@ -11,7 +11,7 @@ Dự án thực hiện quy trình Pentest toàn diện trên môi trường máy
     * **Samba 2.2.1a (trans2open):** Khai thác lỗ hổng Buffer Overflow để chiếm Root shell thành công.
     * **SSL/TLS Vulnerabilities:** Phát hiện các lỗi bảo mật nghiêm trọng (POODLE, CCS Injection, Weak DH Group) qua quét Nmap Scripting Engine (NSE).
 * **Tài liệu:**
-    * 📄 [Báo cáo Vulnerability Assessment & Exploitation (Google Docs)](https://docs.google.com/document/d/1OJX6g9oxGI9HIPWLpTfJ2Td8I0B84qns/edit))
+    * 📄 [Báo cáo Vulnerability Assessment & Exploitation](https://docs.google.com/document/d/1OJX6g9oxGI9HIPWLpTfJ2Td8I0B84qns/edit))
 
 ---
 
@@ -24,7 +24,7 @@ Dự án thực hiện quy trình Pentest toàn diện trên môi trường máy
     * **Xử lý logic:** Kiểm tra độ dài mật khẩu (min 6 chars) và xác thực tài khoản thời gian thực.
 * **Mã nguồn & Tài liệu:**
     * 💻 [Xem tài liệu Hotel Booking tại đây](./Hotel%20booking.py)
-    * 📄 [Báo cáo dự án Smart Hotel Booking System (Google Docs)](https://docs.google.com/document/d/1rb_eC6TBOM6L9ibrzeYwLkfvw61cJyBaXHNmmqNbvuI/edit?tab=t.0#heading=h.7vdakvu8km9u)
+    * 📄 [Báo cáo dự án Smart Hotel Booking System](https://docs.google.com/document/d/1rb_eC6TBOM6L9ibrzeYwLkfvw61cJyBaXHNmmqNbvuI/edit?tab=t.0#heading=h.7vdakvu8km9u)
 
 ---
 
